@@ -1,6 +1,6 @@
 pandas
 numpy
 scipy
-streamlit
+streamlit>=1.28.0
 matplotlib
 altair==4.2.2
